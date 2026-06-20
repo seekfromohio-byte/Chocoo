@@ -16,4 +16,7 @@ Installing Chocoo
 To download Chocoo, you simply need to go to the Releases tab, download the ChocooMenu.dll file, and copy and paste the ChocoMenu.dll file into the ./BepInEx/plugins/ directory. After you have done that, you can open Among Us. Opening Among Us for the first time after installing BepInEx will be different than normal, it may take much longer to start and you will see a terminal window. This is completely normal, the start delay is part of the BepInEx preflight process. Any subsequent launches of Among Us will not have this delay. After waiting a bit, Among Us should open and a mod icon should show up at the top right of your screen, at this point Chocoo is ready and you can now get straight into having fun with Chocoo!
 
 Using Chocoo
+
 You can access the Chocoo UI by pressing Insert on your keyboard. Depending on your keyboard, you may have to toggle Num Lock or press the function key alongside the Insert key to get the menu to show up. After pressing Insert, you should see the Chocoo UI. The Chocoo UI has multiple parts: the sections pane, and the features panes. The sections pane will have a list of tabs such as Self, Host, and Anticheat. Pressing any of these tabs will show the features for this section in the Features Pane. The Features Pane will have sliders, buttons, and checkboxes which can be used to configure Chocoo.
+
+Original Founder: chocoo21, Redistributor. ThearchyExpunged (JayJoice), Contributions - TuffMenu | Bug Hunter -Kuchi,Cool Cat, Testing and Ideator-A L I & Metox For Making Chocoo Menu Possible!
