@@ -3,6 +3,8 @@ Choco (NOT OPEN SOURCE YET)
 Chocoo Menu Is BepInEx and Fork of Malum With Alot of Great Features such as Immortality, Overload (Not patched) Votekick (auto rejoin) and so much more!
 Feel free to join my discord server! https://discord.gg/q2aMyCmfDb
 
+Supported: Steam, Epic Games, Microsoft store, Itch.io. Not Supported: Xbox, Playstation, Android/IOS
+
 Installation and Usage
 
 Installing BepInEx
